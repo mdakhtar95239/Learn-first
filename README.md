@@ -1,4 +1,4 @@
 # Learn-first
 My first github project
 <br>
-Author Akhtar
+Author Akhtar (Apna college)
